@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TrainingData>
+
+  <Courses name=".net">
+	  <Training name="c# basic">
+		  <content name="data types" hours="1"></content>
+		  <content name="events and delegates" hours="2"></content>
+      <price>100</price>
+	  </Training>
+	  <Training name=".net core">
+		  <content name="REST API" hours="2"></content>
+		  <content name="MVC" hours="2"></content>
+      <price>200</price>
+	  </Training>
+	  <Training name="VB">
+		  <content name="data types" hours="1"></content>
+      <price>50</price>
+	  </Training>
+  </Courses>
+
+  <Courses name="Javascript">
+    <Training name="basics">
+		  <content name="data types" hours="1"></content>
+      <price>100</price>
+	  </Training>
+  </Courses>
+
+  <Courses name="non technical">
+    <Training name="negotiation skills">
+      <price>60</price>
+    </Training>
+    <Training name="7 habits">
+      <price>70</price>
+    </Training>
+  </Courses>
+
+  <Courses name="Others">
+    <Training name="Time managment">
+      <price>0</price>
+    </Training>
+  </Courses>
+  
+</TrainingData>
